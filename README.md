@@ -1,0 +1,2 @@
+# EmplaoyeeWage
+JavaScript Implementation
