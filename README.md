@@ -1,2 +1,2 @@
-# EmplaoyeeWage
+# EmployeeWage
 JavaScript Implementation
